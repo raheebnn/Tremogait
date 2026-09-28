@@ -1,4 +1,6 @@
-# TremoGait
+ TremoGait
+
+> 📄 **Accepted at IEEE TENCON 2026** — the paper describing this system has been accepted at the IEEE Region 10 Conference (TENCON) 2026.
 
 An IoT + machine-learning system for **screening Parkinson's-related symptoms** by combining two signals:
 
@@ -145,6 +147,22 @@ export THINGSPEAK_API_KEY="your_write_key"
 ```
 
 ---
+
+## Citation
+
+If you use this work, please cite our paper:
+
+```bibtex
+@inproceedings{tremogait2026,
+  title     = {YOUR PAPER TITLE},
+  author    = {Nazmul, Raheeb Bin and OTHER AUTHORS},
+  booktitle = {Proceedings of the IEEE Region 10 Conference (TENCON)},
+  year      = {2026},
+  note      = {Accepted}
+}
+```
+
+> Replace the title and author list with the final details from the paper. Add the DOI once the paper is published in IEEE Xplore.
 
 ## Known limitations / TODO
 
