@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "TremoGait: IoT and Machine-Learning Screening of Parkinson's-Related Hand Tremor and Gait"
+authors:
+  - family-names: "Nazmul"
+    given-names: "Raheeb Bin"
+    affiliation: "North South University"
+license: MIT
+repository-code: "https://github.com/raheebnn/TremoGait"
+url: "https://github.com/raheebnn/TremoGait"
+date-released: 2026-09-28
+keywords:
+  - Parkinson's disease
+  - tremor detection
+  - gait analysis
+  - IoT
+  - ESP32
+  - wearable sensors
+  - machine learning
