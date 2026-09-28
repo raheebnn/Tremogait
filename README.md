@@ -2,9 +2,6 @@
   <img src="assets/banner.png" alt="TremoGait — IoT + ML Parkinson's symptom screening" width="100%"/>
 </p>
 
-📄 **Accepted at IEEE TENCON 2026** — the paper describing this system has been accepted at the IEEE Region 10 Conference (TENCON) 2026.
-
-
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
   <a href="https://github.com/raheebnn/TremoGait/actions/workflows/ci.yml"><img src="https://github.com/raheebnn/TremoGait/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
@@ -27,7 +24,6 @@
   <a href="docs/HARDWARE.md">Hardware</a> •
   <a href="#-limitations--roadmap">Roadmap</a>
 </p>
-
 
 > [!WARNING]
 > **Not a medical device.** TremoGait is an academic prototype for research and education. It must not be used to diagnose or rule out any condition. Anyone with health concerns should see a qualified neurologist.
